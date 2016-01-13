@@ -1,5 +1,5 @@
 /*jslint node: true, devel: true*/
-
+/* Вот это писал не я, да. Но я понял, как оно работает! */
 var fs = require('fs'),
     input = fs.readFileSync('inputs/07.txt', 'utf8'),
     wires = {};
